@@ -2,3 +2,4 @@ pylibmc
 superset
 psycopg2
 mysqlclient
+flask
