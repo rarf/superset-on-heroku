@@ -3,3 +3,4 @@ superset
 psycopg2
 mysqlclient
 flask
+flask-wtf
