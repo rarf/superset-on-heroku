@@ -1,3 +1,4 @@
 apache-superset
 psycopg2
 gunicorn
+gevent
