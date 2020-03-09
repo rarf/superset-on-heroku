@@ -1,4 +1,4 @@
 pylibmc
 superset
 psycopg2
-MySQL-python
+mysqlclient
