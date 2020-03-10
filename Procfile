@@ -1,1 +1,1 @@
-gunicorn -b 0.0.0.0:8125 superset:app
+gunicorn -b 0.0.0.0:6666 superset:app
