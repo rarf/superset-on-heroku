@@ -1,1 +1,1 @@
-web: gunicorn superset:app
+web: superset run
